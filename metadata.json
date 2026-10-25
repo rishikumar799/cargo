@@ -1,0 +1,6 @@
+{
+  "name": "Mishva International Courier Service",
+  "description": "Contact Mishva International Courier Service in Chandkheda, Ahmedabad, for international courier, domestic courier, document shipping, parcel delivery, and personalized shipping assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
